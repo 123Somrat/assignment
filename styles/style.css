@@ -224,7 +224,7 @@ ul li:hover{
 .getlatests_deals{
     width:1400px;
     height:449px;
-    background-image: url("/images/Rectangle\ 9.png");
+    background-image:url("../images/Rectangle\ 9.png");
     margin-left: 250px;
     margin-top: 50px;
     border-radius: 5px;

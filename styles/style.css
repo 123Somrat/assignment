@@ -132,6 +132,24 @@ ul li:hover{
     height:437px;
     margin:0px 75px 0px 75px
 }
+.pink{
+     margin: 0px 320px 5px 450px;
+     color: #111010;
+     display: inline-block;
+     margin-bottom: 30px;
+     
+}
+.red{
+     margin:0px 360px 5px 30px;
+     color: #111010;
+     display: inline-block;
+     margin-bottom: 30px;
+}
+.yellow{
+    color: #111010;
+    display: inline-block;
+     margin-bottom: 30px;
+}
 .support{
     width:1445px;
     height: 220px;
@@ -206,7 +224,7 @@ ul li:hover{
 .getlatests_deals{
     width:1400px;
     height:449px;
-    background-image: url("./images/Rectangle\ 9.png");
+    background-image: url("/images/Rectangle\ 9.png");
     margin-left: 250px;
     margin-top: 50px;
     border-radius: 5px;
